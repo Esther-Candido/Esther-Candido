@@ -121,11 +121,6 @@
 
 
 
-<hr>
-<h2 align="center">📁 Repositories 📁</h2>
-
-
-
 
 <!--
 **Esther-Candido/Esther-Candido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
