@@ -125,10 +125,6 @@
 <h2 align="center">📁 Repositories 📁</h2>
 
 
-<h4 align="center">
-  <a href="https://github.com/Esther-Candido?tab=repositories" title="Show Repositories">🔗 Show More 🔗</a>
-</h4>
-
 
 
 <!--
