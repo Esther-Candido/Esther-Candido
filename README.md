@@ -117,7 +117,7 @@
 <h2 align="center">📈 Performance 📈</h2>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Esther-Candido&theme=dark&mode=weekly" />
+<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Esther-Candido&theme=dracula&mode=weekly" />
  </div>
 
 
