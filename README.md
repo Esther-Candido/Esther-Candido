@@ -117,7 +117,7 @@
 <h2 align="center">📈 Performance 📈</h2>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=40% align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Esther-Candido&theme=gruvbox&mode=weekly" />
+<img width=45% align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Esther-Candido&theme=gruvbox&mode=weekly" />
 <img width=35% align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esther-Candido&hide_progress=true" />
  </div>
 
@@ -126,17 +126,4 @@
 
 
 
-<!--
-**Esther-Candido/Esther-Candido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
