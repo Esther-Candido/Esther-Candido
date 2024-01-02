@@ -118,7 +118,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Esther-Candido&theme=gruvbox&mode=weekly" />
-<img width=30% align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esther-Candido&hide_progress=true" />
+<img width=40% align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esther-Candido&hide_progress=true" />
  </div>
 
  
