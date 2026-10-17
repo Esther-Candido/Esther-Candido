@@ -1,13 +1,15 @@
 
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Esther</a> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZxenVjamhnM3FjMG4wejNxYjA2ZG4xc3NyaTRrdzRjNjlwZ3Q5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="100px"> </h1>
-   <p align="center">
-  🔬 I'm currently studying Technological Specialization, which leads to a level 5 qualification at ATEC
-  <br>
-  🎓 I graduated from Unifacp University with a degree in Financial Management in Brazil
-  <br>
-  📚 I enjoy writing code and learning everything about it.
-</p>
+   <p>
+    🎓 Completed a Level 5 Professional Qualification at ATEC, Portugal.
+    <br><br>
+    📊 Graduated in Financial Management from UNIFACP University, Brazil.
+    <br><br>
+    🚀 Interested in technology, data, automation, and developing innovative solutions.
+    <br><br>
+    🌱 Continuously expanding my knowledge, exploring new technologies, and embracing new challenges.
+  </p>
 
    
 </div>
@@ -24,29 +26,12 @@
 
 
 <div align="center">
-
-<a href="https://learn-c.org/">
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.cplusplus.com/">
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-</a>
-&nbsp;
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
 </a>
 &nbsp;
-<a href="https://swift.org/">
-<img alt="SWIFT" src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white">
-</a>
-&nbsp;
 <a href="https://www.python.org/">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.java.com">
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
 </a>
 &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -61,9 +46,6 @@
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 </a>
 &nbsp;
-<a href="https://laravel.com/">
-<img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
-</a>
 &nbsp;
 <a href="https://git-scm.com/">
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white">
@@ -83,26 +65,6 @@
 &nbsp;
 <a href="https://github.com/">
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="https://developer.apple.com/xcode/">
-<img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.jetbrains.com/idea/">
-<img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.mysql.com/">
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.php.net/">
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.jetbrains.com/phpstorm/">
-<img alt="PHPSTORM" src="http://img.shields.io/badge/-PHPStorm-181717?style=flat&logo=phpstorm&logoColor=white">
 </a>
 &nbsp;
 <a href="https://nodejs.org/">
