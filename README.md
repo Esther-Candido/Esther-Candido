@@ -70,6 +70,10 @@
 <a href="https://nodejs.org/">
 <img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
 </a>
+&nbsp;  
+<a href="https://www.w3schools.com/sql/">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white">
+</a>
 
 </div>
 
