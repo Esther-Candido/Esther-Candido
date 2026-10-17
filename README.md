@@ -21,7 +21,7 @@
 <br>
 
 <hr>
-<h2 align="center">🚀 My Skills & Tech Stack 🚀</h2>
+<h2 align="center"> My Skills & Tech Stack </h2>
 <br>
 
 
@@ -76,7 +76,7 @@
 
 
 <hr>
-<h2 align="center">📈 Performance 📈</h2>
+<h2 align="center"> Performance </h2>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=45% align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Esther-Candido&theme=dracula&mode=weekly" />
