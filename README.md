@@ -16,7 +16,7 @@
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/esthercandido/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-  <a href="mailto: esther.candido.t0123765@edu.atec.pt"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto: esthercandido21@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </h5>
 <br>
 
